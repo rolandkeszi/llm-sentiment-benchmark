@@ -61,3 +61,7 @@ The notebooks were run in Google Colab and their comments are in Hungarian. API 
 ## Data
 
 Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). Learning word vectors for sentiment analysis. *ACL*. [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+
+## License
+
+© 2026 Roland Keszi. This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it for non-commercial purposes, provided you credit the author (Roland Keszi) and link to this repository. Third-party datasets keep their own licenses. See [`LICENSE`](LICENSE).
